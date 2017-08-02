@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Canon's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/astroncanon/astroncanon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
