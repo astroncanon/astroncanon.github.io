@@ -15,7 +15,11 @@
 
 ## Regular flux calculation with likelihood
 1. Perform a standard LA of full time period.
-2. Determine what binning is reasonable. `Science goals and strength of source of interest`</br>`Bins should not be much larger than TS[Tot]/25`</br>`Affection of upper limits on the ayalysis`</br>`Avoid periods close to being integer fractions of the orbital precessional period of 53.7 days`
+2. Determine what binning is reasonable. 
+* Science goals and strength of source of interest
+* Bins should not be much larger than TS[Tot]/25
+* `Affection of upper limits on the ayalysis`
+* `Avoid periods close to being integer fractions of the orbital precessional period of 53.7 days`
 4. Prepare an ROI model for the time bins. </br>`Freeze spectral shapes of all background sources`</br>`Freeze all parameters of weak background sources - Will cause convergence problems. TS[Tol]/bins < 4 or 9`</br>`For flux only LC, freeze spectral shape of source of interest.`
 5. Decide on criteria for upper limits. </br>`TS[i] < 10 or Ferr[i]/F[i] > 0.5 (or Npred[i] < 3)`
 6. 
