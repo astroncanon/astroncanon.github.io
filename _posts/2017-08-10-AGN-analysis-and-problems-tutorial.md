@@ -39,7 +39,7 @@ categories: [FermiData]
 8. Compute upper limits where necessary.
 
 ## Example from 2FGL
-![PKS_0528+134]({{ site.url }}/images/posts/2017-08-10-PKS-0528+134.png)
+<img src="{{ site.url }}/images/posts/2017-08-10-PKS-0528+134.png" style="zoom:60%" />
 
 ***
 [^chi2inv]: chi2inv (x, n): For each element of x, compute the quantile (the inverse of the CDF) at x of the chi-square distribution with n degrees of freedom.
