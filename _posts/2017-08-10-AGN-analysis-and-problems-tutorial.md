@@ -1,4 +1,9 @@
-# AGN analysis and problems tutorial
+---
+layout: post
+title: AGN analysis and problems tutorial
+categories: [FermiData]
+---
+
 > by *Stephen Fegan*
 
 ## Overview
@@ -33,5 +38,5 @@
 7. Check each analysis for problems.
 8. Compute upper limits where necessary.
 
-
+***
 [^chi2inv]: chi2inv (x, n): For each element of x, compute the quantile (the inverse of the CDF) at x of the chi-square distribution with n degrees of freedom.
