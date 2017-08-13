@@ -18,17 +18,17 @@ layout: default
   </h1>
   <ul class="meta">
   	<i class="fa fa-calendar"></i>
-  	{{ page.date | date: "%Y" }}年{{ page.date | date: "%m" }}月{{ page.date | date: "%d" }}日
+  	{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }}
   	<i class="space"></i>
   	<i class="fa fa-archive"></i>
   	<a class="tag" href="{{ site.url }}/blog/categories.html#{{ page.categories }}">{{ page.categories }}</a>
   	<i class="space"></i>
-  	<i class="fa fa-tags"></i>
+  	<!--i class="fa fa-tags"></i>
   	{% for tag in page.tags %}
   	    <a class="tag" href="{{ site.url }}/tag/#{{ tag }}">{{ tag }}</a>
   	    <i class="space"></i>
   	{% endfor %}
-  	<i class="space"></i> 字数:{{page.content | size |divided_by:2}}
+	<i class="space"></i> 字数:{{page.content | size |divided_by:2}}-->
   </ul>
 </div>
 </div>
@@ -63,7 +63,7 @@ layout: default
 
 <!--评论功能>
 <section class="comments inner duoshuo">
-<!-- Disqus Comment BEGIN -->
+<Disqus Comment BEGIN>
   <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -78,7 +78,7 @@ layout: default
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-<!-- Disqus Comment END -->
+<Disqus Comment END>
 
 </section-->
 </div>
