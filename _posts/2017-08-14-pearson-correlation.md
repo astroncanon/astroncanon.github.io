@@ -12,9 +12,9 @@ $$
 
 Where:
 
-N: number of pairs of scores
-${\sum}xy$: sum of the products of paired scores
-${\sum}x$: sum of x scores
-${\sum}y$: sum of y scores
-${\sum}x^2$: sum of squared x scores
+N: number of pairs of scores  
+${\sum}xy$: sum of the products of paired scores  
+${\sum}x$: sum of x scores  
+${\sum}y$: sum of y scores  
+${\sum}x^2$: sum of squared x scores  
 ${\sum}y^2$: sum of squared y scores
