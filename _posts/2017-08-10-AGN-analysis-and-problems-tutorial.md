@@ -148,13 +148,13 @@ Prescription to include upper limits and systematic errors in exposure.
 ![variability index]({{ site.url }}/images/posts/2017-08-10-variability-index-1fgl.png)
 
 ## 2FGL variability index
-* The 2FGL variability index is based on a comparison of the log likelihood values for the time bins under two hypothesis:  
-\- $0$. Null hypothesis: the flux is constant in all time bins - $F_{const}$ - found by ML over all bins.  
-\- $1$. Alternate hypothesis: the source flux in each bin is different - $F_{i}$ - found by ML in each bin.  
+* The 2FGL variability index is based on a comparison of the log-likelihood values for the time bins under two hypothesis:  
+\- $0$). Null hypothesis: the flux is constant in all time bins - $F_{const}$ - found by ML over all bins.  
+\- $1$). Alternate hypothesis: the source flux in each bin is different - $F_{i}$ - found by ML in each bin.  
 * Sum log likelihoods in each - $logL^{(0)}$ & $logL^{(1)}$
 * Wilks' theorem: $TS_{var} = 2{\Delta}L \sim \chi^2(N-1)$
 * How to find $F_{const}$? Minimized over all bins?
-* Turns out that in mant circumstance $F_{const}$ is close to the value of the source flux from the global analysis - $F_{const} \approc F_{Tot}$
+* Turns out that in mant circumstance $F_{const}$ is close to the value of the source flux from the global analysis - $F_{const} \approx F_{Tot}$
 * This was assumed to be true in 2FGL
 * This gives a simple recipe - compre the summed likelihood with the flux optimized in each bin to the summed likelihood with $F_{Tot}$
 * Can improve on this - e.g. try $F_{Tot}$ & $F_{Tot} \pm x{\Delta}F_{Tot}$
