@@ -30,7 +30,7 @@ categories: [FermiData]
 * Freeze all parameters of weak background sources - Will cause convergence problems. $TS_{Tot} / N_{bin} < 4$ or $9$.
 * For flux only LC, freeze spectral shape of source of interest.
 4. Decide on criteria for upper limits. 
-* $TS_i < 10$ or ${\Delta}F_i / F_i > 0.5$ (or $N_{pred}_i < 3$)
+* $TS_i < 10$ or ${\Delta}F_i / F_i > 0.5$ (or $N_{predi}< 3$)
 * $95\%$ Bayesian UL when $TS_i < 1$
 * $95\%$ profile method otherwise. [$\delta = chi2inv(2*(0.95-0.5))/2 = 2.71/2$][^chi2inv]
 5. Divide data into bins (gtselect).
@@ -45,7 +45,7 @@ categories: [FermiData]
 * The minimizer may not give proper error matrix in calculation of LC points.
 * Usually the minimizer will converge, and the model parameters will be OK.
 * But the errors can be VERY wrong.
-* Hence a $chi^2$ fit to a constant can be wrong.
+* Hence a $\chi^2$ fit to a constant can be wrong.
 * This seems to be related to parameters that are not properly constrained (and hence hit limits).
 
 ## A sample LAT LC
