@@ -6,16 +6,16 @@ categories: [Math]
 
 The pronunciations of the most common mathematical expressions are given in the list below. In general, the shortest versions are preferred (unless greater precision is necessary).
 
-## 1. Logic
+## Logic
 
-|EXPR.    | PRON.        |  
+| EXPR.   | PRON.        |  
 |---------|--------------|  
-|$\exists$  | there exists |  
-|$\forall$ | for all|  
-|$p \Rightarrow q$ | $p$ implies $q$ / if $p$, then $q$ |  
-|$p \Leftrightarrow q$ | $p$ if and only if $q$ /  $p$ is equivalent to $q$ / $p$ and $q$ are equivalent |  
+| $\exists$  | there exists |  
+| $\forall$ | for all|  
+| $p \Rightarrow q$ | $p$ implies $q$ / if $p$, then $q$ |  
+| $p \Leftrightarrow q$ | $p$ if and only if $q$ /  $p$ is equivalent to $q$ / $p$ and $q$ are equivalent |  
 
-## 2. Sets
+## Sets
 |EXPR. | PRON. |
 |---------|--------------|
 |$x \in A$ | $x$ belongs to $A$ / $x$ is an element (or a member) of $A$|
