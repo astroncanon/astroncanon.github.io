@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Pronunciation of mathematical expressions
-categories: Math
+categories: [Math]
 ---
 
 The pronunciations of the most common mathematical expressions are given in the list below. In general, the shortest versions are preferred (unless greater precision is necessary).
 
 ## 1. Logic
+
 |EXPR.    | PRON.        |  
 |---------|--------------|  
 |$\exists$  | there exists |  
