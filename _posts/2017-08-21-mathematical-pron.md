@@ -16,6 +16,7 @@ The pronunciations of the most common mathematical expressions are given in the 
 | $p \Leftrightarrow q$ | $p$ if and only if $q$ /  $p$ is equivalent to $q$ / $p$ and $q$ are equivalent |  
 
 ## Sets
+
 |EXPR. | PRON. |
 |---------|--------------|
 |$x \in A$ | $x$ belongs to $A$ / $x$ is an element (or a member) of $A$|
