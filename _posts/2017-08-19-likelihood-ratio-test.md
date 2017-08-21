@@ -8,7 +8,7 @@ Likelihood ratio tests (LRTs) have been used to compare two **nested** models. T
 
 $$
 \begin{equation}
-LRT = -2 log_{e}[\frac{L_{s}(\theta)}{L_{g}(\theta)}]
+LRT = -2 ln[\frac{L_{s}(\theta)}{L_{g}(\theta)}]
 \end{equation}
 $$
 
@@ -18,8 +18,8 @@ the ratio of two likelihood functions; the simpler model (s) has fewer parameter
 
 $$
 \begin{equation}
-LRT = -2 [log_{e}(L_{s}) - log_{e}(L_{g})]\\  
-    = -2 log_{e}(L_{s}) + log_{e}(L_{g})\\  
+LRT = -2 [ln(L_{s}) - ln(L_{g})]\\  
+    = -2 ln(L_{s}) + ln(L_{g})\\  
     = deviance_{s} - deviance_{g}  
 \end{equation}
 $$
@@ -46,12 +46,12 @@ Compute MLEs under both models and compute the deviances ($D$),
 
 $$
 \begin{equation}
-D_{s} = -2log_{e}(L(p)), ~~~ K_{s} = 1, {\rm the~number~of~parameters}\\
-D_{g} = -2log_{e}(L(p_1,p_2)), ~~~ K_{g} = 2, {\rm the~number~of~parameters}
+D_{s} = -2ln(L(p)), ~~~ K_{s} = 1, {\rm the~number~of~parameters}\\
+D_{g} = -2ln(L(p_1,p_2)), ~~~ K_{g} = 2, {\rm the~number~of~parameters}
 \end{equation}
 $$
 
-The the $LRT = D_s - D_g, df = K_g - K_s = 1$.
+The $LRT = D_s - D_{g}$, $df = K_g - K_{s} = 1$.
 
 Thus, this test statistic in approximately $\chi^2$ with 1 df under the null hypothesis. The approximation improves as sample size increases. Note, too that the log-likelihood for the saturated model is a constant and the same for both of the above models; thus it was deleted in this example.
 
