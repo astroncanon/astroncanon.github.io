@@ -6,8 +6,6 @@ categories: [Math]
 
 The pronunciations of the most common mathematical expressions are given in the list below. In general, the shortest versions are preferred (unless greater precision is necessary).
 
- **OR** 
-
 ## Logic
 
 | EXPR.   | PRON.        |
@@ -88,8 +86,8 @@ The pronunciations of the most common mathematical expressions are given in the 
 | $f:S \rightarrow T$ | a function $f$ from $S$ to $T$ |
 | $ x \mapsto y $ | $x$ maps to $y$  **OR**  $x$ is sent (or mapped) to $y$ |
 | ${f}'(x)$ | $f$ prime $x$  **OR**  $f$ dash $x$  **OR**  the (first) derivative of $f$ with respect to $x$ |
-| ${f}{''}(x)$ | $f$ double-prime $x$  **OR**  $f$ double-dash $x$  **OR**  the second derivative of $f$ with respect to $x$ |
-| ${f}{'''}(x)$ | $f$ triple-prime $x$  **OR**  $f$ triple-dash $x$  **OR**  the third derivative of $f$ with respect to $x$ |
+| ${f}^{(2)}(x)$ | $f$ double-prime $x$  **OR**  $f$ double-dash $x$  **OR**  the second derivative of $f$ with respect to $x$ |
+| ${f}^{(3)}(x)$ | $f$ triple-prime $x$  **OR**  $f$ triple-dash $x$  **OR**  the third derivative of $f$ with respect to $x$ |
 | $f^{(4)}(x)$ | $f$ four $x$  **OR**  the fourth derivative of $f$ with respect to $x$ |
 | $\frac{\partial f}{\partial x} $| the partial (derivative) of $f$ with respect to $x$ |
 | $\frac{\partial^2 f}{\partial x^2}$ | the second partial (derivative) of $f$ with respect to $x$ |
