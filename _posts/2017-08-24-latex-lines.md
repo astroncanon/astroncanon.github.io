@@ -18,4 +18,4 @@ categories: [Latex]
 \xout{Text marked over with slashes}
 ```
 
-$\xout{Text marked over with slashes}$
+![latex-lines]({{ site.url }}/images/posts/2017-08-24-latex-lines.png)
