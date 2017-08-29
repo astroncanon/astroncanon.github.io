@@ -95,8 +95,8 @@ The pronunciations of the most common mathematical expressions are given in the 
 | $\lim_{x \to 0} $| the limit as $x$ approaches zero |
 | $\lim_{x \to +0} $| the limit as $x$ approaches zero from above |
 | $\lim_{x \to -0} $| the limit as $x$ approaches zero from below |
-| ${\rm log}_e y$ | log $y$ to the base $e$  **OR**  log to thr base $e$ of $y$  **OR**  natural log (of) $y$ |
-| ${\rm ln} y$ | log $y$ to the base $e$  **OR**  log to thr base $e$ of $y$  **OR**  natural log (of) $y$ |
+| ${\rm log}_e y$ | log $y$ to the base $e$  **OR**  log to the base $e$ of $y$  **OR**  natural log (of) $y$ |
+| ${\rm ln} y$ | log $y$ to the base $e$  **OR**  log to the base $e$ of $y$  **OR**  natural log (of) $y$ |
 
 
 Individual mathematicians often have their own way of pronouncing mathematical expressions and in many cases there is no generally accepted "correct" pronunciation.
