@@ -44,7 +44,7 @@ Below is an XRT image of GRB 050911 comparing the BAT error circle with the X-ra
 ![position]({{ site.url }}/images/posts/2017-08-29-position.png)
 
 ### Spectra
-The XRT resolution at launch was ∼140 eV at 6 keV, with spectra similar to that shown below. Fe emission lines, if detected, can provide a redshift measurement accurate to about 10%. The resolution will degrade during the mission, but will remain above 300 eV at the end of the mission life for a worst-case environment. Photometric accuracy is be good to 10% or better for source fluxes from the XRT's sensitivity limit of $2 \times 10^{-14} {\rm erg}~{\rm cm}^{-2}~{\rm s}^{-1}$ to $\sim8 \times 10^{-7}$ erg cm$^{-2}$ s$^{-1}$ (about 2 times brighter than the brightest X-ray burst observed to date).
+The XRT resolution at launch was ∼140 eV at 6 keV, with spectra similar to that shown below. Fe emission lines, if detected, can provide a redshift measurement accurate to about 10%. The resolution will degrade during the mission, but will remain above 300 eV at the end of the mission life for a worst-case environment. Photometric accuracy is be good to 10% or better for source fluxes from the XRT's sensitivity limit of $2 \times 10^{-14} {\rm erg}~{\rm cm}^{-2}~{\rm s}^{-1}$ to $\sim 8 \times 10^{-7}$ erg cm$^{-2}$ s$^{-1}$ (about 2 times brighter than the brightest X-ray burst observed to date).
 
 ![affective]({{ site.url }}/images/posts/2017-08-29-affective-area.png)
 
