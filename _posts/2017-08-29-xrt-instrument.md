@@ -15,7 +15,7 @@ categories: [Instrument]
 |--------|-----------|
 |Telescope|	JET-X Wolter I|
 |Focal Length	 | $3.5$ m |
-|Effective Area	| $110 {\rm m}^2$ @ $1.5$ keV |
+|Effective Area	| $110 {\rm cm}^2$ @ $1.5$ keV |
 |Telescope PSF	| $18$ arcsec HPD @ $1.5$ keV |
 |Detector |	EEV CCD-$22$, $600 \times 600$ pixels |
 |Detector Operation	| Imaging, Timing, and Photon-counting|
