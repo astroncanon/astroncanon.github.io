@@ -29,10 +29,10 @@ Another term for this kind of smoothing is "sliding average", "box smoothing", o
 ### Binomial Smoothing
 Binomial smoothing is a Gaussian filter. It convolves your data with normalized coefficients derived from Pascal´s triangle at a level equal to the Smoothing parameter. The algorithm is derived from an article by Marchand and Marmet (1983).
 
-###Savitzky-Golay Smoothing
+### Savitzky-Golay Smoothing
 Savitzky-Golay smoothing uses a different set of precomputed coefficients popular in the field of chemistry. It is a type of Least Squares Polynomial smoothing. The amount of smoothing is controlled by two parameters: the polynomial order and the number of points used to compute each smoothed output value.
 
-####References
+#### References
 Marchand, P., and L. Marmet, Binomial smoothing filter: A way to avoid some pitfalls of least square polynomial smoothing, Rev. Sci. Instrum., 54, 1034-41, 1983.
 Savitzky, A., and M.J.E. Golay, Smoothing and differentiation of data by simplified least squares procedures, Analytical Chemistry, 36, 1627-1639, 1964.
 
